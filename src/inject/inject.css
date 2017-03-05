@@ -1,0 +1,42 @@
+div._2qld {
+    color: #000000;
+    background-color: #0C0;
+    border-color: #000000;
+    background-repeat: no-repeat;
+}
+
+i._2qlk {
+    background-image: url(/rsrc.php/v3/yO/r/mQ9VinWyWuP.png);
+    background-repeat: no-repeat;
+    background-size: 35px 322px;
+    background-position: 0 -160px;
+    display: inline-block;
+    height: 20px;
+    vertical-align: middle;
+    width: 20px;
+}
+
+div._2qlm {
+    font-weight: bold;
+    text-indent: -999px;
+    line-height: 0;
+}
+
+div._2qlm:after {
+    content: 'Alternative fact confirmed';
+    text-indent: 0px;
+    line-height: initial;
+    display: block;
+}
+
+div#nfxQuestionNamedfalse_news > label.uiInputLabelLabel {
+    text-indent: -999px;
+    line-height: 0;
+}
+
+div#nfxQuestionNamedfalse_news > label.uiInputLabelLabel:after {
+    content: 'It\'s an alternative fact';
+    text-indent: 0px;
+    line-height: initial;
+    display: block;
+}
