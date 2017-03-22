@@ -1,6 +1,6 @@
 {
   "name": "Factvizr",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "manifest_version": 2,
   "description": "Shows the truth behind Facebook's posts tagged as disputed news",
   "homepage_url": "http://factvizr.com",
